@@ -5,3 +5,4 @@ import com.onetomany.example.entity.Customer;
 
 public interface CustomerRepository extends JpaRepository<Customer,Integer> {
 }
+// commenting in repo gitdemo
